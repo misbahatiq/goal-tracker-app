@@ -25,11 +25,8 @@ A user-centered Android application designed to help individuals set goals, trac
 
 ---
 
-## 📸 Screenshots
- 
-- ![Welcome Screen](main/0.png)  
-- ![Progress Tracker](main/8.png)
 🔗 [View Project Repository](https://github.com/misbahatiq/goal-tracker-app)
+
 ---
 
 ## 👩‍💻 Developer
